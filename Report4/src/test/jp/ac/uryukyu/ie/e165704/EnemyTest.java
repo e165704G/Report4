@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
  */
 public class EnemyTest {
     /**
-     * 「死んでる状態では攻撃できない」ことを確認。
+     * 「死んでる状態では攻撃できない」ことを確。
      * @throws Exception
      */
     @Test
